@@ -38,3 +38,4 @@ SELECT *
 FROM long_loans
 ORDER BY member_name;
 
+--end of library borrowing records script
