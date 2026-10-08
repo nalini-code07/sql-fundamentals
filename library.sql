@@ -37,5 +37,6 @@ WHERE days_borrowed > 14;
 SELECT *
 FROM long_loans
 ORDER BY member_name;
+--sort loans from the highest number of borrowed days to the lowest.
 
 --end of library borrowing records script
